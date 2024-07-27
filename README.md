@@ -2,7 +2,7 @@
 
 This repositories contains files and folders which were used to create this finance tracker using React JS and Google Firebase and various libraries like Ant Design, Chart.js, Toastify,  etc.
 
-[Experience it!](https://savior-finance-tracker.netlify.app/dashboard)
+[Experience it!](https://savior-finance-tracker.netlify.app)
 
 ## Project Images
 
