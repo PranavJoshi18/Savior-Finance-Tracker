@@ -1,0 +1,28 @@
+.btn {
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    color: black;
+    border: 1px solid var(--theme);
+    border-radius: 8px;
+    padding: 3%;
+    cursor: pointer;
+    margin: 2% 0;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    background-color: var(--theme);
+    border: 1px solid black;
+}
+
+.btn.blue {
+    background-color: var(--theme);
+    border: 1px solid black;
+}
+
+.btn.blue:hover {
+    background-color: transparent;
+    border: 1px solid var(--theme);
+}

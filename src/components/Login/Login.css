@@ -1,0 +1,32 @@
+.login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 50%;
+    max-width: 400px;
+    height: auto;
+    padding: 1rem 2rem;
+    color: var(--black);
+    border: 1px solid rgb(48, 48, 48);
+    box-shadow: var(--shadow);
+    border-radius: 10px;
+    background-color: var(--bg);
+
+    h2 {
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+
+    .ask {
+        text-align: center;
+        cursor: pointer;
+        margin-top: 1rem;
+        font-size: 14px;
+        font-style: italic;
+    }
+
+    .ask:hover {
+        color: rgba(0,0,0,0.8);
+    }
+}
